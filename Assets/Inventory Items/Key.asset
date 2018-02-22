@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d6dbdfcd69ba2e4080c7c79875a175a, type: 3}
+  m_Name: New InventoryItem 6f1c8385-f732-4e23-bc46-0c948d04808f
+  m_EditorClassIdentifier: 
+  itemName: 
+  sprite: {fileID: 0}
+  picSound: {fileID: 0}
+  prefab: {fileID: 0}
