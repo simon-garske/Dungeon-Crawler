@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1d6dbdfcd69ba2e4080c7c79875a175a, type: 3}
-  m_Name: New InventoryItem 6f1c8385-f732-4e23-bc46-0c948d04808f
+  m_Name: Key
   m_EditorClassIdentifier: 
-  itemName: 
-  sprite: {fileID: 0}
-  picSound: {fileID: 0}
-  prefab: {fileID: 0}
+  itemName: Key
+  sprite: {fileID: 21300000, guid: 197f33ac41e55044bbfa38898df6b6f8, type: 3}
+  picSound: {fileID: 8300000, guid: c005d4c8a49d0ce4aa8ac93635fa3b0e, type: 3}
+  prefab: {fileID: 1182998984595688, guid: f55d6c879e5bb67499c7575238cf8b07, type: 2}

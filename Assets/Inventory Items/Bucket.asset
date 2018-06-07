@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1d6dbdfcd69ba2e4080c7c79875a175a, type: 3}
-  m_Name: New InventoryItem 1b9f69e1-c1e5-446d-8158-2f431331c4b8
+  m_Name: Bucket
   m_EditorClassIdentifier: 
-  itemName: 
-  sprite: {fileID: 0}
-  picSound: {fileID: 0}
-  prefab: {fileID: 0}
+  itemName: Bucket
+  sprite: {fileID: 21300000, guid: c5bbc44d149125f4298fca5e35c61da6, type: 3}
+  picSound: {fileID: 8300000, guid: c005d4c8a49d0ce4aa8ac93635fa3b0e, type: 3}
+  prefab: {fileID: 1118784267857556, guid: 40451ff5b77f70a459a515014d2f0712, type: 2}

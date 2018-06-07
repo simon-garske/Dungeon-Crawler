@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Tooltip
+  - Message
+  - Enemy
+  - Door
+  - "R\xE4tsel"
   layers:
   - Default
   - TransparentFX
@@ -14,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - IgnoreStoneDetection
+  - Minimap
   - 
   - 
   - 
